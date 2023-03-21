@@ -13,6 +13,9 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 * python3, python3-pip, git, imagemagick, wget
 * jupyterlab with scikit-learn
 
+## Scripts
+* `ml_models.ipynb`: training machine learning models with different feature sets to predict image appeal.
+
 
 ## Acknowledgments
 
